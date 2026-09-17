@@ -207,40 +207,6 @@ Market Making (Primary)
                         ├─ ML event prediction
                         └─ Institutional-grade infrastructure
 ```
-
----
-
-## Fee Impact by Strategy
-
-```
-Category: Geopolitics (0% taker fee)
-├─ Basket Arb Threshold: 0.5% edge
-├─ Strategy Viability: ✅ BEST CATEGORY
-└─ Example: $10,000 position × 0.5% = $50 profit minimum
-
-Category: Sports (0.75% taker fee)
-├─ Basket Arb Threshold: 2.0% edge
-├─ Strategy Viability: ✅ GOOD
-└─ Example: $10,000 position × 2.0% = $200 profit minimum
-
-Category: Politics (1.00% taker fee)
-├─ Basket Arb Threshold: 2.5% edge
-├─ Strategy Viability: ✅ VIABLE
-└─ Example: $10,000 position × 2.5% = $250 profit minimum
-
-Category: Crypto (1.80% taker fee)
-├─ Basket Arb Threshold: 4.1% edge
-├─ Strategy Viability: ⚠️ DIFFICULT
-└─ Example: $10,000 position × 4.1% = $410 profit minimum
-└─ Note: Latency arb dead—MM/ACS only
-
-Maker Rebates (Compensates Fees)
-├─ Base: 20% of taker fees collected
-├─ Finance: 50% of taker fees (BEST REBATE)
-├─ Example: You earn rebates even if users trade against you
-└─ This is the #1 structural edge in 2026
-```
-
 ---
 
 ## Risk Management Hierarchy
